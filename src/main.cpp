@@ -1,5 +1,7 @@
 #include "include/ulegoo.hpp"
 
+// this is an example project
+
 int main() {
   setup_ulegoo();
   enable();
